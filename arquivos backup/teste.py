@@ -35,7 +35,6 @@ def convert_doc_to_pdf(input_path, output_path=None):
     convert(input_path, output_path)
     print(f"Arquivo PDF criado: {output_path}")
 
-# Exemplo de uso
 excel_file = 'ODS - Entregas.xlsx'  # Planilha com palavras-chaves
 docx_file = 'palavras_chaves.docx'   # Nome do arquivo .docx de saída
 
