@@ -31,5 +31,4 @@ def select_and_convert():
     else:
         print("Nenhum arquivo foi selecionado.")
 
-# Exemplo de uso
 select_and_convert()
